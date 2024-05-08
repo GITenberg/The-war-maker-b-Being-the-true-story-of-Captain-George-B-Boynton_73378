@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '57050'
     url: http://www.gutenberg.org/2009/agents/57050
     wikipedia: https://en.wikipedia.org/wiki/Pirie_MacDonald
+covers:
+- cover_type: archival
+  image_path: 73378-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Smith, Horace Herbert
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57034
 description: '"The hero of this book was a real man, though he has carried to his
   grave the secret of his true name"--p. 5.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73378#The-war-maker-b-Being-the-true-story-of-Captain-George-B-Boynton
 gutenberg_issued: '2024-04-11'
 gutenberg_type: Text
 identifiers:
